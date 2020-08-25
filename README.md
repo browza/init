@@ -2,9 +2,9 @@
 
 > The **Browser** Dev Group
 
-firefox
-chrome
-brave
-internet explorer
-vivida
+Firefox
+Chrome
+Brave
+Internet Explorer
+Vivida
 
